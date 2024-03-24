@@ -1,0 +1,12 @@
+{
+  "order":{
+      "orderId":"ff88f8f8dd",
+      "userId":"nfurr78v8d",
+      "deliveryPrice":350,
+      "itemPrice":5000,
+      "status":{
+        "statusId":"4353t5gt",
+        "statusName":"Оплачен"
+      }
+    }
+ }
